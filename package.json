@@ -1,0 +1,27 @@
+{
+  "name": "fetch-github-organization",
+  "version": "1.0.0",
+  "description": "Fetch all users in a github organization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgbkrk/fetch-github-organization.git"
+  },
+  "keywords": [
+    "fetch",
+    "github",
+    "users"
+  ],
+  "author": "Kyle Kelley <rgbkrk@gmail.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/rgbkrk/fetch-github-organization/issues"
+  },
+  "homepage": "https://github.com/rgbkrk/fetch-github-organization#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
